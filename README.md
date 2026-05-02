@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yash Saini 
 
-Welcome to my GitHub profile! I'm a second-year college student at **IIT BHU**, passionate about  **open-source contribution**, and exploring **deep learning** and **computer vision**. I enjoy solving challenges and learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm a third-year college student at **IIT BHU**, passionate about  **open-source contribution**, and exploring **deep learning** and **computer vision**. I enjoy solving challenges and learning new technologies to enhance my skills.
 
 ---
 
